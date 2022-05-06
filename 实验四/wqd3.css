@@ -1,0 +1,138 @@
+.d1{
+	position: absolute;
+	box-sizing: content-box;
+  	width: 304px;
+  	height:440px;
+  	border: 10px solid rgb(244, 244, 244);
+	padding: 12px;
+}
+.d2{
+	width: 329px;
+	height: 25px;
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	background: rgb(255, 229, 222);
+}
+h1{
+	text-indent: 30px;
+	font-size: 20px;
+	color: rgb(234, 79, 49);
+	line-height: 1px;
+}
+h2{
+	text-indent: 18px;
+	font-size: 10px;
+	color: rgb(88, 88, 88);
+	line-height: 15px;
+}
+h3{
+	text-indent: 90px;
+	font-size: 12px;
+	color: rgb(247, 75, 37);
+	line-height: 0px;
+}
+h4{
+	text-indent: 10px;
+	font-size: 12px;
+	color: rgb(88, 88, 88);
+	line-height: 100px;
+}
+h5{
+	color: rgb(226, 93, 60);
+	position: absolute;
+	top: 130px;
+}
+h6{
+	font-size: 13.5px;
+	color: rgb(88, 88, 88);
+	position: absolute;
+	top: 150px;
+}
+img{
+	position: absolute;
+	left: 1px;
+	top: 230px;
+}
+.x1{
+    height: 235px;
+    border-right: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    left: 0px;
+    top: 230px;
+}
+.x2{
+	width: 78px;
+	height: 225px;
+    border-top: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    left: 0px;
+    top: 230px;
+}
+.x3{
+	width: 65px;
+    height: 85px;
+    border-right: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    top: 230px;
+}
+.x4{
+	width: 250px;
+    height: 75px;
+    border-top: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    left: 78px;
+    top: 313px;
+}
+.x5{
+	width: 315px;
+    height: 152px;
+    border-right: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    top: 313px;
+}
+.x6{
+	width: 328px;
+    height: 75px;
+    border-top: solid rgb(244, 71, 31) 2px;
+    position: absolute;
+    left: 0px;
+    top: 464px;
+}
+.d3{
+	text-indent: 13px;
+	font-size: 14px;
+	color: rgb(238, 115, 100);
+	position: absolute;
+	top: 330px;
+}
+.d3 span{
+	color: rgb(88, 88, 88);
+}
+input[type=text1]{
+	position: absolute;
+	top: 360px;
+	width:220px;
+	color: rgb(88, 88, 88);
+}
+input[type=text2]{
+	position: absolute;
+	top: 380px;
+	width:220px;
+}
+.d4{
+	font-size: 10px;
+	color: rgb(88, 88, 88);
+	position: absolute;
+	top: 410px;
+}
+.d4 span{
+	color: rgb(234, 79, 49);
+}
+button{
+	background-color: rgb(253, 71, 31);
+	border-style:none;
+	color: white;
+	position: absolute;
+	top: 430px;
+}

@@ -1,0 +1,50 @@
+span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+button{
+	font-size: 20px;
+	border: 1px solid transparent;
+	color: rgb(184, 184, 184);
+	background-color: #fff;
+	border-color: #fff;
+}
+.all{
+	line-height:15PX;
+	border:1px solid white; margin-left:180px；
+}
+.left{
+	float:left;
+	width: 60%;
+}
+.right{
+	float:right;
+	width: 35%;
+}
+.one{
+	float: left;
+	line-height: 20px;
+}
+h1{
+	font-size: 15px;
+	color: rgb(184, 184, 184);
+}
+h2{
+	font-size: 20px;
+}
+h3{
+	font-size: 12px;
+	color: rgb(184, 184, 184);
+}
+h4{
+	color: rgb(41, 41, 41);
+}
+h5{
+	font-size: 20px;
+	color: rgb(184, 184, 184);
+}
+h6{
+	font-size: 18px;
+	color: rgb(41, 41, 41);
+}
